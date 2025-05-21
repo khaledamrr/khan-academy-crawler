@@ -1,0 +1,18 @@
+title,url,description,subject,unit_count,lesson_count
+Math Course 1,https://www.khanacademy.org/math/course-1,This is a mock description for Math Course 1,math,4,21
+Math Course 2,https://www.khanacademy.org/math/course-2,This is a mock description for Math Course 2,math,2,10
+Science Course 1,https://www.khanacademy.org/science/course-1,This is a mock description for Science Course 1,science,5,28
+Science Course 2,https://www.khanacademy.org/science/course-2,This is a mock description for Science Course 2,science,4,30
+Science Course 3,https://www.khanacademy.org/science/course-3,This is a mock description for Science Course 3,science,3,16
+Science Course 4,https://www.khanacademy.org/science/course-4,This is a mock description for Science Course 4,science,2,14
+Computing Course 1,https://www.khanacademy.org/computing/course-1,This is a mock description for Computing Course 1,computing,4,23
+Computing Course 2,https://www.khanacademy.org/computing/course-2,This is a mock description for Computing Course 2,computing,5,24
+Humanities Course 1,https://www.khanacademy.org/humanities/course-1,This is a mock description for Humanities Course 1,humanities,5,33
+Humanities Course 2,https://www.khanacademy.org/humanities/course-2,This is a mock description for Humanities Course 2,humanities,5,24
+Humanities Course 3,https://www.khanacademy.org/humanities/course-3,This is a mock description for Humanities Course 3,humanities,2,7
+Economics-finance-domain Course 1,https://www.khanacademy.org/economics-finance-domain/course-1,This is a mock description for Economics-finance-domain Course 1,economics-finance-domain,4,24
+Economics-finance-domain Course 2,https://www.khanacademy.org/economics-finance-domain/course-2,This is a mock description for Economics-finance-domain Course 2,economics-finance-domain,2,11
+Economics-finance-domain Course 3,https://www.khanacademy.org/economics-finance-domain/course-3,This is a mock description for Economics-finance-domain Course 3,economics-finance-domain,2,8
+Economics-finance-domain Course 4,https://www.khanacademy.org/economics-finance-domain/course-4,This is a mock description for Economics-finance-domain Course 4,economics-finance-domain,5,33
+Test-prep Course 1,https://www.khanacademy.org/test-prep/course-1,This is a mock description for Test-prep Course 1,test-prep,2,10
+Test-prep Course 2,https://www.khanacademy.org/test-prep/course-2,This is a mock description for Test-prep Course 2,test-prep,5,20

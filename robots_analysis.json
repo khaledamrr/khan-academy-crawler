@@ -1,0 +1,40 @@
+{
+  "allowed_paths": [],
+  "disallowed_paths": [
+    "/",
+    "/_ah/",
+    "/admin/",
+    "/api/internal/_bb/",
+    "/crash",
+    "/devadmin/",
+    "/embed_video",
+    "/login?continue=*",
+    "/postlogin",
+    "/preview/",
+    "/search",
+    "/searchtest",
+    "/settings/linkaccount",
+    "/khan-labs?step=terms-and-conditions",
+    "/khan-labs?step=terms-and-conditions-redirect",
+    "/khan-labs?step=no-birthdate",
+    "/khan-labs?step=under-age-gate",
+    "/khan-labs?step=english-only",
+    "/khan-labs?step=us-only",
+    "/khan-labs?step=children-over-limit",
+    "/khan-labs?step=ineligible",
+    "/khanmigo/checkout?step=terms-and-conditions",
+    "/khanmigo/checkout?step=terms-and-conditions-redirect",
+    "/khanmigo/checkout?step=no-birthdate",
+    "/khanmigo/checkout?step=under-age-gate",
+    "/khanmigo/checkout?step=english-only",
+    "/khanmigo/checkout?step=us-only",
+    "/khanmigo/checkout?step=children-over-limit",
+    "/khanmigo/checkout?step=ineligible",
+    "*?qa_expand_key*"
+  ],
+  "sitemaps": [
+    "https://www.khanacademy.org/sitemap.xml"
+  ],
+  "crawl_delay": null,
+  "crawlability_score": 70
+}
