@@ -1,0 +1,17 @@
+title,url,description,subject,unit_count,lesson_count
+Math Course 1,https://www.khanacademy.org/math/course-1,This is a mock description for Math Course 1,math,5,28
+Math Course 2,https://www.khanacademy.org/math/course-2,This is a mock description for Math Course 2,math,2,9
+Science Course 1,https://www.khanacademy.org/science/course-1,This is a mock description for Science Course 1,science,2,10
+Science Course 2,https://www.khanacademy.org/science/course-2,This is a mock description for Science Course 2,science,5,31
+Science Course 3,https://www.khanacademy.org/science/course-3,This is a mock description for Science Course 3,science,3,17
+Computing Course 1,https://www.khanacademy.org/computing/course-1,This is a mock description for Computing Course 1,computing,4,21
+Computing Course 2,https://www.khanacademy.org/computing/course-2,This is a mock description for Computing Course 2,computing,4,27
+Humanities Course 1,https://www.khanacademy.org/humanities/course-1,This is a mock description for Humanities Course 1,humanities,3,14
+Humanities Course 2,https://www.khanacademy.org/humanities/course-2,This is a mock description for Humanities Course 2,humanities,4,23
+Humanities Course 3,https://www.khanacademy.org/humanities/course-3,This is a mock description for Humanities Course 3,humanities,3,22
+Humanities Course 4,https://www.khanacademy.org/humanities/course-4,This is a mock description for Humanities Course 4,humanities,5,21
+Economics-finance-domain Course 1,https://www.khanacademy.org/economics-finance-domain/course-1,This is a mock description for Economics-finance-domain Course 1,economics-finance-domain,3,20
+Economics-finance-domain Course 2,https://www.khanacademy.org/economics-finance-domain/course-2,This is a mock description for Economics-finance-domain Course 2,economics-finance-domain,3,17
+Test-prep Course 1,https://www.khanacademy.org/test-prep/course-1,This is a mock description for Test-prep Course 1,test-prep,3,18
+Test-prep Course 2,https://www.khanacademy.org/test-prep/course-2,This is a mock description for Test-prep Course 2,test-prep,2,15
+Test-prep Course 3,https://www.khanacademy.org/test-prep/course-3,This is a mock description for Test-prep Course 3,test-prep,2,8

@@ -1,0 +1,1900 @@
+[
+  {
+    "title": "Math Course 1",
+    "url": "https://www.khanacademy.org/math/course-1",
+    "description": "This is a mock description for Math Course 1",
+    "subject": "math",
+    "units": [
+      {
+        "title": "Unit 1: Math Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-1/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-1/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-1/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-1/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-1/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-1/lesson-6",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Math Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-2/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-2/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-2/lesson-5",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Math Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-3/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-3/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-3/lesson-3",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Math Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-4/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-4/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-4/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-4/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-4/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-4/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-4/lesson-7",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: Math Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-5/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-5/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-5/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-5/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-5/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-5/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-1/unit-5/lesson-7",
+            "type": "Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Math Course 2",
+    "url": "https://www.khanacademy.org/math/course-2",
+    "description": "This is a mock description for Math Course 2",
+    "subject": "math",
+    "units": [
+      {
+        "title": "Unit 1: Math Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-1/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-1/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-1/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-1/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-1/lesson-5",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Math Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-2/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Math Topic",
+            "url": "https://www.khanacademy.org/math/course-2/unit-2/lesson-4",
+            "type": "Exercise"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Science Course 1",
+    "url": "https://www.khanacademy.org/science/course-1",
+    "description": "This is a mock description for Science Course 1",
+    "subject": "science",
+    "units": [
+      {
+        "title": "Unit 1: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-1/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-1/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-1/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-1/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-1/lesson-5",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-2/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-2/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-1/unit-2/lesson-5",
+            "type": "Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Science Course 2",
+    "url": "https://www.khanacademy.org/science/course-2",
+    "description": "This is a mock description for Science Course 2",
+    "subject": "science",
+    "units": [
+      {
+        "title": "Unit 1: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-7",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 8: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-1/lesson-8",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-2/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-2/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-2/lesson-3",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-6",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 7: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-7",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 8: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-3/lesson-8",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-4/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-4/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-4/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-4/lesson-4",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-6",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 7: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-7",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 8: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-2/unit-5/lesson-8",
+            "type": "Article"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Science Course 3",
+    "url": "https://www.khanacademy.org/science/course-3",
+    "description": "This is a mock description for Science Course 3",
+    "subject": "science",
+    "units": [
+      {
+        "title": "Unit 1: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-1/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-1/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-1/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-1/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-1/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-1/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-1/lesson-7",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-2/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-2/lesson-5",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Science Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-3/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-3/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-3/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-3/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Science Topic",
+            "url": "https://www.khanacademy.org/science/course-3/unit-3/lesson-5",
+            "type": "Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Computing Course 1",
+    "url": "https://www.khanacademy.org/computing/course-1",
+    "description": "This is a mock description for Computing Course 1",
+    "subject": "computing",
+    "units": [
+      {
+        "title": "Unit 1: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-1/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-1/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-1/lesson-3",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-2/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-2/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-2/lesson-6",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 7: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-2/lesson-7",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-3/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-3/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-3/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-3/lesson-4",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-4/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-4/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-4/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-4/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-4/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-4/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-1/unit-4/lesson-7",
+            "type": "Exercise"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Computing Course 2",
+    "url": "https://www.khanacademy.org/computing/course-2",
+    "description": "This is a mock description for Computing Course 2",
+    "subject": "computing",
+    "units": [
+      {
+        "title": "Unit 1: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-1/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-1/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-1/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-1/lesson-4",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-2/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-2/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-2/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-2/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-2/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-2/lesson-7",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-7",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 8: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-3/lesson-8",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Computing Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-6",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 7: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-7",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 8: Computing Topic",
+            "url": "https://www.khanacademy.org/computing/course-2/unit-4/lesson-8",
+            "type": "Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Humanities Course 1",
+    "url": "https://www.khanacademy.org/humanities/course-1",
+    "description": "This is a mock description for Humanities Course 1",
+    "subject": "humanities",
+    "units": [
+      {
+        "title": "Unit 1: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-1/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-1/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-1/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-1/lesson-4",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-2/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-2/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-2/lesson-5",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-3/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-3/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-3/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-3/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-1/unit-3/lesson-5",
+            "type": "Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Humanities Course 2",
+    "url": "https://www.khanacademy.org/humanities/course-2",
+    "description": "This is a mock description for Humanities Course 2",
+    "subject": "humanities",
+    "units": [
+      {
+        "title": "Unit 1: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-1/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-1/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-1/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-1/lesson-4",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-2/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-2/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-2/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-2/lesson-5",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-3/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-3/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-3/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-3/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-3/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-3/lesson-6",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-7",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 8: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-2/unit-4/lesson-8",
+            "type": "Exercise"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Humanities Course 3",
+    "url": "https://www.khanacademy.org/humanities/course-3",
+    "description": "This is a mock description for Humanities Course 3",
+    "subject": "humanities",
+    "units": [
+      {
+        "title": "Unit 1: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-6",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 7: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-7",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 8: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-1/lesson-8",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-2/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-2/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-2/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-2/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-2/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-2/lesson-7",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-3/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-3/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-3/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-3/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-3/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-3/lesson-6",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 7: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-3/unit-3/lesson-7",
+            "type": "Article"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Humanities Course 4",
+    "url": "https://www.khanacademy.org/humanities/course-4",
+    "description": "This is a mock description for Humanities Course 4",
+    "subject": "humanities",
+    "units": [
+      {
+        "title": "Unit 1: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-1/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-1/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-1/lesson-3",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-2/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-2/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-2/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-2/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-2/lesson-6",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-3/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-3/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-3/lesson-3",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-4/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-4/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-4/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-4/lesson-4",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: Humanities Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-5/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-5/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-5/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-5/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Humanities Topic",
+            "url": "https://www.khanacademy.org/humanities/course-4/unit-5/lesson-5",
+            "type": "Exercise"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Economics-finance-domain Course 1",
+    "url": "https://www.khanacademy.org/economics-finance-domain/course-1",
+    "description": "This is a mock description for Economics-finance-domain Course 1",
+    "subject": "economics-finance-domain",
+    "units": [
+      {
+        "title": "Unit 1: Economics-finance-domain Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-1/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-1/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-1/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-1/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-1/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-1/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-1/lesson-7",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Economics-finance-domain Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-2/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-2/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-2/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-2/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-2/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-2/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-2/lesson-7",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Economics-finance-domain Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-3/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-3/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-3/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-3/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-3/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-1/unit-3/lesson-6",
+            "type": "Article"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Economics-finance-domain Course 2",
+    "url": "https://www.khanacademy.org/economics-finance-domain/course-2",
+    "description": "This is a mock description for Economics-finance-domain Course 2",
+    "subject": "economics-finance-domain",
+    "units": [
+      {
+        "title": "Unit 1: Economics-finance-domain Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-1/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-1/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-1/lesson-3",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Economics-finance-domain Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-2/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-2/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-2/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-2/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-2/lesson-6",
+            "type": "Video"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Economics-finance-domain Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-5",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 6: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-6",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 7: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-7",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 8: Economics-finance-domain Topic",
+            "url": "https://www.khanacademy.org/economics-finance-domain/course-2/unit-3/lesson-8",
+            "type": "Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Test-prep Course 1",
+    "url": "https://www.khanacademy.org/test-prep/course-1",
+    "description": "This is a mock description for Test-prep Course 1",
+    "subject": "test-prep",
+    "units": [
+      {
+        "title": "Unit 1: Test-prep Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-1/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-1/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-1/lesson-3",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 4: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-1/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-1/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-1/lesson-6",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Test-prep Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-2/lesson-1",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 2: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-2/lesson-4",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 5: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-2/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-2/lesson-6",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 7: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-2/lesson-7",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Test-prep Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-3/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-3/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-3/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-3/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-1/unit-3/lesson-5",
+            "type": "Exercise"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Test-prep Course 2",
+    "url": "https://www.khanacademy.org/test-prep/course-2",
+    "description": "This is a mock description for Test-prep Course 2",
+    "subject": "test-prep",
+    "units": [
+      {
+        "title": "Unit 1: Test-prep Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-2",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 3: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-4",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 5: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-5",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 6: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-6",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 7: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-7",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 8: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-1/lesson-8",
+            "type": "Article"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Test-prep Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-2/lesson-1",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 2: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-2/lesson-3",
+            "type": "Exercise"
+          },
+          {
+            "title": "Lesson 4: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-2/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-2/lesson-5",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 6: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-2/lesson-6",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 7: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-2/unit-2/lesson-7",
+            "type": "Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Test-prep Course 3",
+    "url": "https://www.khanacademy.org/test-prep/course-3",
+    "description": "This is a mock description for Test-prep Course 3",
+    "subject": "test-prep",
+    "units": [
+      {
+        "title": "Unit 1: Test-prep Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-1/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-1/lesson-2",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 3: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-1/lesson-3",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 4: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-1/lesson-4",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 5: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-1/lesson-5",
+            "type": "Exercise"
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Test-prep Fundamentals",
+        "lessons": [
+          {
+            "title": "Lesson 1: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-2/lesson-1",
+            "type": "Video"
+          },
+          {
+            "title": "Lesson 2: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-2/lesson-2",
+            "type": "Article"
+          },
+          {
+            "title": "Lesson 3: Test-prep Topic",
+            "url": "https://www.khanacademy.org/test-prep/course-3/unit-2/lesson-3",
+            "type": "Exercise"
+          }
+        ]
+      }
+    ]
+  }
+]

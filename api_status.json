@@ -1,0 +1,11 @@
+{
+  "api_available": false,
+  "endpoints": {
+    "topictree": "/api/v1/topictree",
+    "playlists": "/api/v1/playlists",
+    "badges": "/api/v1/badges"
+  },
+  "rate_limit": "60 requests per minute",
+  "authentication": "API Key required",
+  "last_check": "2025-05-15 18:20:48"
+}
