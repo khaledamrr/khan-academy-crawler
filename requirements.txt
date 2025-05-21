@@ -124,4 +124,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
 playwright==1.42.0
-greenlet==3.0.3 
+greenlet==2.0.2 
