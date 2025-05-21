@@ -123,5 +123,4 @@ webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
-playwright==1.42.0
-greenlet==2.0.2 
+playwright==1.42.0 
